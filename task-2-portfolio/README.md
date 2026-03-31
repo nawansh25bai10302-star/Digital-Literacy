@@ -20,9 +20,9 @@ I hope to build strong foundations in programming, problem-solving, and software
 
 | Platform | Purpose | Link |
 |----------|---------|------|
-| 🐙 **GitHub** | Code repositories & projects | [github.com/yourusername](https://github.com/nawansh.25bai10302-star) |
-| 💼 **LinkedIn** | Professional networking & career opportunities | [linkedin.com/in/yourusername]https://www.linkedin.com/in/nawansh-dwivedi-85596b37b/|
-| 📊 **Kaggle** | Data science practice & competitions | [kaggle.com/yourusername](https://kaggle.com/yourusername) |
+| 🐙 **GitHub** | Code repositories & projects | (https://github.com/nawansh.25bai10302-star) |
+| 💼 **LinkedIn** | Professional networking & career opportunities | https://www.linkedin.com/in/nawansh-dwivedi-85596b37b/|
+| 📊 **Kaggle** | Data science practice & competitions | (https://www.kaggle.com/nawanshdwivedi) |
 
 
 ## 📁 Digital Literacy Project – CSE0001
